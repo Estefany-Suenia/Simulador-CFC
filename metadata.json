@@ -1,0 +1,6 @@
+{
+  "name": "CFC Quest",
+  "description": "Simulador oficial e dinâmico para os exames CFC 2026.1 e 2025.2, com correção inteligente, estatísticas avançadas e modo revisão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
